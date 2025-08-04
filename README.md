@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Características Destacadas
+## Características Destacadas
 
 - **Autenticación segura y gestión de usuarios**
 - **Control de inventario por almacén**
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Flutter & Dart**
 - **Supabase (Backend y autenticación)**
@@ -25,7 +25,7 @@
 
 ---
 
-## 📦 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 lib/
@@ -38,7 +38,7 @@ lib/
 
 ---
 
-## ⚡ Instalación Rápida
+## Instalación Rápida
 
 1. Clona el repositorio:
    ```bash
@@ -54,22 +54,6 @@ lib/
    ```bash
    flutter run
    ```
-
----
-
-## 💼 ¿Por qué Mamapola?
-
-- **Ahorra tiempo** en la gestión diaria de inventarios.
-- **Reduce errores** con validaciones y reportes automáticos.
-- **Escalable** y adaptable a diferentes tipos de negocio.
-- **Fácil de usar** desde el primer día.
-
----
-
-## 🤝 Contribuciones
-
-¿Te gustaría colaborar? ¡Eres bienvenido!  
-Por favor, abre un issue o pull request para sugerencias, mejoras o reportes de bugs.
 
 ---
 
