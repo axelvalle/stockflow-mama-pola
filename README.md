@@ -61,7 +61,3 @@ lib/
 
 Distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
 
----
-
-¿Listo para llevar tu inventario al siguiente nivel?  
-**Mamapola: Controla, analiza y crece.**
